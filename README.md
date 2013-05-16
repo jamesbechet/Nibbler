@@ -1,6 +1,7 @@
 #Nibbler - Play snake like when you were kid.
 
-Nibbler was a school project aiming the creation of shared libraries and load them dynamicaly.
+Nibbler is a school project aiming on the creation of shared libraries and load them dynamicaly.
+
 It is a group project made with [@nicolasdanino](https://github.com/nicolasdanino?source=cc). 
 
 ## Features
